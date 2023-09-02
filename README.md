@@ -19,7 +19,7 @@
 			</div>
 			<div class="Contact">
 				<h2>Contact</h2>
-				<p><b>Email id:</b>mohit.kumar5202@gmail.com</p>
+				<p><b>Email id:</b> mohit.kumar5202@gmail.com </p>
 				<p><b>Mobile no :</b>+91-8527254299</p>
 			</div>
 			<div class="Skills">
@@ -67,7 +67,7 @@
 			</div>
 			<div class="Summary">
 				<h2>Summary</h2>
-				<p>I Rank websites oon google organically by doing seo tactics. I have been working as a SEO Analyst since one year. I use some tools in SEO like - Ahref, semrush, seranking, rankwatch, google keyword planner, surferseo, google search console, google analytics, google tag manager, screaming frog etc.
+				<p>I Rank websites on google organically by doing seo tactics. I have been working as a SEO Analyst since one year. I use some tools in SEO like - Ahref, semrush, seranking, rankwatch, google keyword planner, surferseo, google search console, google analytics, google tag manager, screaming frog etc.
 				</p>
 			</div>
 			<div class="Experience">
@@ -80,47 +80,42 @@
 				</ul>
 			 
 			</div>
-			<div class="Education">
-				<h2>Education</h2>
-				<table>
-					<tr>
-						<th>University/college</th>
-                                                <th>Degree/Course</th>
-						<th>Passing year</th>
-						<th>Grade</th>
-					</tr>
-					<tr>
-						<td>Delhi University</td>
-                                                <td>B.Sc in Life Sciences</td>
-						<td>2017</td>
-						<td>First</td>
-					</tr>
-					<tr>
-						<td>Indira Gandhi National Open University</td>
-                                                <td>M.Sc in Dietetics and Food Service Management</td>
-						<td>2021</td>
-						<td>First</td>
-					</tr>
-  
-					<tr>
-						<td>Indira Gandhi National Open University</td>
-                                                <td>Bachelor in Library & Information Sciences</td>
-						<td>2021</td>
-						<td>First</td>
-				</table>
-			</div>
-			<div class="project">
-				<ul>
-					<li>
-						<h2>Project</h2>
-						<p>Dissertation - Assessment of Nutritional Status of Adult Diabetic Women's (35-60 Years) in Delhi (100 Patients)</p>
-					</li>
-				
-				</ul>
-			</div>
-		</div>
-	</div>
+			 <div class="Education">
+                <h2>Education</h2>
+                <table>
+                    <tr>
+                        <th>University/college  </th>
+                        <th>Passing year  </th>
+                        <th>percentage/cgpa</th>
+                    </tr>
+                    <tr>
+                        <td>xyz</td>
+                        <td>2020</td>
+                        <td>8.9</td>
+                    </tr>
+                    <tr>
+                        <td>pqr</td>
+                        <td>2018</td>
+                        <td>89%</td>
+                    </tr>
+                </table>
+            </div>
+            <div class="project">
+                <ul>
+                    <li>
+                        <h2>Project1</h2>
+                        <p>This project is based on html
+                          & used React</p>
+                    </li>
+                    <li>
+                        <h2>Project2</h2>
+                        <p>This project is based on html
+                          & used React</p>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
 </body>
-
+ 
 </html>
-
