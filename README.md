@@ -60,7 +60,7 @@
 		</div>
 		<div class="right">
 			<div class="name">
-				<h1>XYZ</h1>
+				<h1>Digital Web Solutions</h1>
 			</div>
 			<div class="title">
 				<p>SEO Analyst</p>
@@ -72,7 +72,7 @@
 			</div>
 			<div class="Experience">
 				<h2>Experience</h2>
-				<h3>xyz pvt ltd - SEO Analyst</h3>
+				<h3>Digital Web Solutions pvt ltd - SEO Analyst</h3>
 				<p>September 2022 to Present</p>
 				<ul>
 					<li>Run Linkedin Campaign, Text Campaign, Email Campaign</li>
