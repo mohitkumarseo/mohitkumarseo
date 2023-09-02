@@ -72,7 +72,7 @@
 			</div>
 			<div class="Experience">
 				<h2>Experience</h2>
-				<h3>Digital Web Solutions pvt ltd - SEO Analyst</h3>
+				<h3>Digital Web Solutions Pvt Ltd - SEO Analyst</h3>
 				<p>September 2022 to Present</p>
 				<ul>
 					<li>Run Linkedin Campaign, Text Campaign, Email Campaign</li>
