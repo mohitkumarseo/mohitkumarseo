@@ -95,6 +95,12 @@
                         <td>2017</td>
                         <td>First</td>
                     </tr>
+		    <tr>
+                        <td>Indira Gandhi National Open University</td>
+			<td>Certificate in Nutrition & Child Care</td>
+                        <td>2019</td>
+                        <td>First</td>
+                    </tr>
                     <tr>
                         <td>Indira Gandhi National Open University</td>
 			<td>M.Sc in Dietetics and Food Service Management</td>
