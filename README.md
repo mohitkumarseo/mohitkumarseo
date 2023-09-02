@@ -67,7 +67,7 @@
 			</div>
 			<div class="Summary">
 				<h2>Summary</h2>
-				<p>I Rank websites on google organically by doing seo tactics. I have been working as a SEO Analyst since one year. I use some tools in SEO like - Ahref, semrush, seranking, rankwatch, google keyword planner, surferseo, google search console, google analytics, google tag manager, screaming frog etc.
+				<p>I Rank websites on google organically by implementing seo tactics. I have been working as a SEO Analyst since one year. I use some tools in SEO like - Ahref, semrush, seranking, rankwatch, google keyword planner, surferseo, google search console, google analytics, google tag manager, screaming frog etc.
 				</p>
 			</div>
 			<div class="Experience">
