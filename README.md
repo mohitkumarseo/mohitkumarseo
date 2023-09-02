@@ -101,7 +101,13 @@
                         <td>2021</td>
                         <td>First</td>
                     </tr>
-                </table>
+                    <tr>
+                        <td>Indira Gandhi National Open University</td>
+			<td>Bachelor in Library & Information Sciences</td>
+                        <td>2021</td>
+                        <td>First</td>
+                    </tr>
+               </table>
             </div>
             <div class="project">
                 <ul>
