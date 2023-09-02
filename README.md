@@ -13,104 +13,109 @@
 		<div class="left">
 			<div class="image">
 				<img src=
-"https://media.geeksforgeeks.org/wp-content/uploads/20220202083519/gfglogo.png"
-					alt="gfg-logo"
+"https://media.licdn.com/dms/image/D4D03AQGvQdVdTx1cvQ/profile-displayphoto-shrink_200_200/0/1668870963218?e=1698883200&v=beta&t=pXqUb-5178aeAQrAQ5rA8O4N70ANma1FFmbiaT3t4jY"
+					alt="Mohit Kumar - Profile Picture"
 					style="width:100px;height:100px;">
 			</div>
 			<div class="Contact">
 				<h2>Contact</h2>
-				<p><b>Email id:</b>xyz@gmail.com</p>
-				<p><b>Mobile no :</b>1234567890</p>
+				<p><b>Email id:</b>mohit.kumar5202@gmail.com</p>
+				<p><b>Mobile no :</b>+91-8527254299</p>
 			</div>
 			<div class="Skills">
 				<h2>Skills</h2>
 				<ul>
-					<li><b>Programming Languages :
-					Python, Java, C++</b></li>
-					<li><b>Frontend : HTML5, CSS3,
-					JavaScript, React</b></li>
-					<li><b>Backend : Node.js</b></li>
+					<li><b>Full Website Optimization</b></li>
+					<li><b>Keyword Research</b></li>
+					<li><b>Keyword Gap Analysis</b></li>
+					<li><b>Domain Comparision</b></li>
+					<li><b>Backlink Analysis</b></li>
+					<li><b>Content Suggestions</b></li>
+					<li><b>On-Page SEO</b></li>
+					<li><b>Technical SEO</b></li>
+					<li><b>Off Page SEO</b></li>
+					<li><b>link Builiding</b></li>
+					<li><b>Local SEO</b></li>
+					<li><b>Online Marketing Expert</b></li>
+					<li><b>Conversion Rate Optimization</b></li>
+					<li><b>Email Marketing</b></li>
+					<li><b>Bussiness Growth</b></li>
+			
 				</ul>
 			</div>
 			<div class="Language">
 				<h2>Language</h2>
 				<ul>
-					<li>English</li>
 					<li>Hindi</li>
+					<li>English</li>
 				</ul>
 			</div>
 			<div class="Hobbies">
 				<h2>Hobbies</h2>
 				<ul>
-					<li>Playing cricket</li>
-					<li>Swimming</li>
+					<li>Learning New Things</li>
+					<li>Blogging</li>
 				</ul>
 			</div>
 		</div>
 		<div class="right">
 			<div class="name">
-				<h1>GeeksforGeeks</h1>
+				<h1> </h1>
 			</div>
 			<div class="title">
-				<p>Web Developer</p>
+				<p>SEO Analyst</p>
 			</div>
 			<div class="Summary">
 				<h2>Summary</h2>
-				<p>To secure a challenging position in a
-				reputable organization
-					to expand my learning knowledge and skill
+				<p>I Rank websites oon google organically by doing seo tactics. I have been working as a SEO Analyst since one year. I use some tools in SEO like - Ahref, semrush, seranking, rankwatch, google keyword planner, surferseo, google search console, google analytics, google tag manager, screaming frog etc.
 				</p>
 			</div>
 			<div class="Experience">
 				<h2>Experience</h2>
-				<h3>Abc webdev pvt ltd - Senior Web Developer</h3>
-				<p>January 2022 to Present</p>
+				<h3>xyz pvt ltd - SEO Analyst</h3>
+				<p>September 2022 to Present</p>
 				<ul>
-					<li>Actively engaged in web creative
-					design and development.</li>
-					<li>Designing project & planning</li>
+					<li>Run Linkedin Campaign, Text Campaign, Email Campaign</li>
+					<li>Use Search Engine Optimization to Rank Websites on Google</li>
 				</ul>
-				<h3>Xyz webdev pvt ltd - junior web developer</h3>
-				<p>August 2021 to December 2021</p>
-				<ul>
-					<li>Actively engaged in web creative
-					design and development.</li>
-					<li>Designing project & planning</li>
-					<li>Working on designing</li>
-				</ul>
+			 
 			</div>
 			<div class="Education">
 				<h2>Education</h2>
 				<table>
 					<tr>
-						<th>University/college </th>
-						<th>Passing year </th>
-						<th>percentage/cgpa</th>
+						<th>University/college</th>
+                                                <th>Degree/Course</th>
+						<th>Passing year</th>
+						<th>Grade</th>
 					</tr>
 					<tr>
-						<td>xyz</td>
-						<td>2020</td>
-						<td>8.9</td>
+						<td>Delhi University</td>
+                                                <td>B.Sc in Life Sciences</td>
+						<td>2017</td>
+						<td>First</td>
 					</tr>
 					<tr>
-						<td>pqr</td>
-						<td>2018</td>
-						<td>89%</td>
+						<td>Indira Gandhi National Open University</td>
+                                                <td>M.Sc in Dietetics and Food Service Management</td>
+						<td>2021</td>
+						<td>First</td>
 					</tr>
+  
+					<tr>
+						<td>Indira Gandhi National Open University</td>
+                                                <td>Bachelor in Library & Information Sciences</td>
+						<td>2021</td>
+						<td>First</td>
 				</table>
 			</div>
 			<div class="project">
 				<ul>
 					<li>
-						<h2>Project1</h2>
-						<p>This project is based on html
-						& used React</p>
+						<h2>Project</h2>
+						<p>Dissertation - Assessment of Nutritional Status of Adult Diabetic Women's (35-60 Years) in Delhi (100 Patients)</p>
 					</li>
-					<li>
-						<h2>Project2</h2>
-						<p>This project is based on html
-						& used React</p>
-					</li>
+				
 				</ul>
 			</div>
 		</div>
