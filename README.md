@@ -60,7 +60,7 @@
 		</div>
 		<div class="right">
 			<div class="name">
-				<h1> </h1>
+				<h1>XYZ</h1>
 			</div>
 			<div class="title">
 				<p>SEO Analyst</p>
@@ -84,33 +84,30 @@
                 <h2>Education</h2>
                 <table>
                     <tr>
-                        <th>University/college  </th>
-                        <th>Passing year  </th>
-                        <th>percentage/cgpa</th>
+                        <th>University/college</th>
+			<th>Course/Degree</th>
+                        <th>Passing year</th>
+                        <th>Grade</th>
                     </tr>
                     <tr>
-                        <td>xyz</td>
-                        <td>2020</td>
-                        <td>8.9</td>
+                        <td>Delhi University</td>
+			<td>B.Sc in Life Sciences</td>
+                        <td>2017</td>
+                        <td>First</td>
                     </tr>
                     <tr>
-                        <td>pqr</td>
-                        <td>2018</td>
-                        <td>89%</td>
+                        <td>Indira Gandhi National Open University</td>
+			<td>M.Sc in Dietetics and Food Service Management</td>
+                        <td>2021</td>
+                        <td>First</td>
                     </tr>
                 </table>
             </div>
             <div class="project">
                 <ul>
                     <li>
-                        <h2>Project1</h2>
-                        <p>This project is based on html
-                          & used React</p>
-                    </li>
-                    <li>
-                        <h2>Project2</h2>
-                        <p>This project is based on html
-                          & used React</p>
+                        <h2>Project</h2>
+                        <p>Dissertation - Assessment of Nutritional Status of Adult Diabetic Women's (35-60 Years) in Delhi (100 Patients)</p>
                     </li>
                 </ul>
             </div>
