@@ -124,8 +124,8 @@
                 </ul>
 
   
-                                                        <div class="handmade">
-						        <p>handmade by <em><center>𝐌𝐨𝐡𝐢𝐭 𝐊𝐮𝐦𝐚𝐫</center></em></p>
+                                                   <div class="handmade">
+						   <p><a href="www.linkedin.com/in/mohit-kumar-seo-analyst">Made By - Mohit Kumar</a></p>
                                                         </div>
                                                         </div>
                                                         </div>
