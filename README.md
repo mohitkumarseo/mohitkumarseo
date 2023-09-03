@@ -159,7 +159,7 @@
             </div>
             <div class="Summary">
                 <h2>Summary</h2>
-                <p>I rank websites on Google organically by implementing SEO tactics. I have been working as an SEO Analyst for one year. I use various SEO tools such as Ahrefs, SEMrush, SE Ranking, Rankwatch, Google Keyword Planner, SurferSEO, Google Search Console, Google Analytics, Google Tag Manager, and Screaming Frog, etc.</p>
+                <p>I specialize in optimizing websites for organic Google rankings through the strategic implementation of SEO techniques. With over one year of experience as an SEO Analyst, I have honed my skills in utilizing a wide range of SEO tools, including Ahrefs, SEMrush, SE Ranking, Rankwatch, Google Keyword Planner, SurferSEO, Google Search Console, Google Analytics, Google Tag Manager, and Screaming Frog, among others. My expertise lies in driving improved search engine visibility and delivering tangible results for online businesses.</p>
             </div>
             <div class="Experience">
                 <h2>Experience</h2>
