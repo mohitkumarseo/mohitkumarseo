@@ -125,10 +125,8 @@
 
   
                                                         <div class="handmade">
-                                                        <p>handmade by <em>𝐌𝐨𝐡𝐢𝐭 𝐊𝐮𝐦𝐚𝐫</em></p>
-                                                       </div>
-     
-  
+						        <p>handmade by <em><center>𝐌𝐨𝐡𝐢𝐭 𝐊𝐮𝐦𝐚𝐫</center></em></p>
+                                                        </div>
                                                         </div>
                                                         </div>
                                                         </div>
