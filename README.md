@@ -152,7 +152,7 @@
         </div>
         <div class="right">
             <div class="name">
-                <h1>Digital Web Solutions</h1>
+                <h1> RESUME </h1>
             </div>
             <div class="title">
                 <p>SEO Analyst</p>
