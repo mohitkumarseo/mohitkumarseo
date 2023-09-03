@@ -123,13 +123,13 @@
                    </li>
                 </ul>
                                                         <div class="handmade">
-                                                        <p>handmade by <em> Mohit Kumar </em></p>
+                                                        <p>handmade by <em> **Mohit Kumar** </em></p>
                                                        </div>
      
   
-            </div>
-        </div>
-    </div>
-</body>
+                                                        </div>
+                                                        </div>
+                                                        </div>
+                                                        </body>
  
 </html>
