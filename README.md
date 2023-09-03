@@ -1,7 +1,7 @@
 
 
+<!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -103,7 +103,6 @@
         }
     </style>
 </head>
-
 <body>
     <div class="full">
         <div class="left">
@@ -127,7 +126,7 @@
                     <li><b>Content Suggestions</b></li>
                     <li><b>On-Page SEO</b></li>
                     <li><b>Technical SEO</b></li>
-                    <li><b>Off Page SEO</b></li>
+                    <li><b>Off-Page SEO</b></li>
                     <li><b>Link Building</b></li>
                     <li><b>Local SEO</b></li>
                     <li><b>Online Marketing Expert</b></li>
@@ -137,7 +136,7 @@
                 </ul>
             </div>
             <div class="Language">
-                <h2>Languages</h2>
+                <h2>Language</h2>
                 <ul>
                     <li>Hindi</li>
                     <li>English</li>
@@ -213,6 +212,5 @@
         </div>
     </div>
 </body>
-
 </html>
 
