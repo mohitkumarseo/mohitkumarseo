@@ -120,20 +120,9 @@
                     <li>
                         <h2>Project</h2>
                         <p>Dissertation - Assessment of Nutritional Status of Adult Diabetic Women's (35-60 Years) in Delhi (100 Patients)</p>
-                   </li>
+                    </li>
                 </ul>
-
-
-
-  
-                                                <style>
-						p {text-align: center;}
-                                         <p><a href="www.linkedin.com/in/mohit-kumar-seo-analyst">Made By - Mohit Kumar</a></p>
-					        </style>
-                                                
-                                                        </div>
-                                                        </div>
-                                                        </div>
-                                                        </body>
- 
-</html>
+            </div>
+        </div>
+    </div>
+</body>
