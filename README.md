@@ -123,14 +123,14 @@
                    </li>
                 </ul>
 
+
+
   
                                                 <style>
-  
-                                                 p {text-align: center;}
-
-                                                  </style>
+						p {text-align: center;}
+                                                </style>
 						   <p><a href="www.linkedin.com/in/mohit-kumar-seo-analyst">Made By - Mohit Kumar</a></p>
-                                                        </div>
+                                                
                                                         </div>
                                                         </div>
                                                         </div>
