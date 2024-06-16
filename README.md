@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="resume.css">
-    <title>Mohit Kumar - SEO Analyst Resume</title>
-    <meta name="description" content="SEO Analyst Mohit Kumar - Resume showcasing skills in full website optimization, keyword research, backlink analysis, and more. Over two year of experience driving search engine visibility and business growth.">
+    <title>SEO Analyst Resume - Mohit Kumar</title>
     <style>
         /* Custom styles for the resume */
         body {
@@ -16,7 +14,6 @@
             margin: 0;
             padding: 0;
         }
-
         .full {
             display: flex;
             justify-content: space-between;
@@ -24,55 +21,40 @@
             margin: 20px;
             box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
         }
-
         .left {
             width: 30%;
             background-color: #333;
             color: #fff;
             padding: 20px;
         }
-
         .left h2 {
             font-size: 24px;
         }
-
         .left img {
             width: 100px;
             height: 100px;
             border-radius: 50%;
             margin-bottom: 10px;
         }
-
-        .Contact p,
-        .Skills ul,
-        .Language ul,
-        .Hobbies ul {
+        .Contact p, .Skills ul, .Language ul, .Hobbies ul {
             padding-left: 20px;
         }
-
-        .Contact p b,
-        .Skills ul li b,
-        .Language ul li b,
-        .Hobbies ul li b {
+        .Contact p b, .Skills ul li b, .Language ul li b, .Hobbies ul li b {
             color: #f39c12;
         }
-
         .right {
             width: 70%;
             padding: 20px;
         }
-
         .name {
             font-size: 36px;
             color: #333;
         }
-
         .title {
             font-size: 18px;
             color: #333;
             margin-top: -10px;
         }
-
         .Summary h2,
         .Experience h2,
         .Education h2,
@@ -81,46 +63,41 @@
             color: #333;
             margin-top: 20px;
         }
-
         .Experience h3 {
             font-size: 20px;
             color: #333;
         }
-
         .Experience ul {
             list-style-type: square;
         }
-
         table {
             width: 100%;
             border-collapse: collapse;
             margin-top: 10px;
         }
-
         th,
         td {
             padding: 10px;
             text-align: left;
             border-bottom: 1px solid #ccc;
         }
-
         .project p {
             font-size: 16px;
             color: #333;
         }
     </style>
 </head>
-
 <body>
     <div class="full">
         <div class="left">
             <div class="image">
-                <img src="https://media.licdn.com/dms/image/D4D03AQGvQdVdTx1cvQ/profile-displayphoto-shrink_200_200/0/1668870963218?e=1698883200&v=beta&t=pXqUb-5178aeAQrAQ5rA8O4N70ANma1FFmbiaT3t4jY" alt="Mohit Kumar - Profile Picture">
+                <img src="https://media.licdn.com/dms/image/D4D03AQGvQdVdTx1cvQ/profile-displayphoto-shrink_200_200/0/1668870963218?e=1698883200&v=beta&t=pXqUb-5178aeAQrAQ5rA8O4N70ANma1FFmbiaT3t4jY"
+                    alt="Mohit Kumar - Profile Picture">
             </div>
             <div class="Contact">
                 <h2>Contact</h2>
-                <p><b>Email:</b> mohit.kumar5202@gmail.com</p>
-                <p><b>Mobile:</b> +91-8527254299</p>
+                <p><b>Email id:</b> mohit.kumar5202@gmail.com</p>
+                <p><b>Mobile no :</b>+91-8527254299</p>
             </div>
             <div class="Skills">
                 <h2>Skills</h2>
@@ -219,6 +196,5 @@
         </div>
     </div>
 </body>
-
 </html>
 
