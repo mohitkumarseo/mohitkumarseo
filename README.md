@@ -1,216 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
+# Mohit Kumar
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Mohit Kumar - SEO Analyst Resume</title>
-    <style>
-        /* Custom styles for the resume */
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f0f0f0;
-            margin: 0;
-            padding: 0;
-        }
+## Professional Summary
+Experienced SEO Specialist with over 2 years of expertise at Digital Web Solutions, adept at optimizing digital presence and driving organic traffic growth. Skilled in keyword research, on-page and off-page SEO strategies, and performance analytics.
 
-        .full {
-            display: flex;
-            justify-content: space-between;
-            background-color: #fff;
-            margin: 20px;
-            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-        }
+## Education
+- **M.Sc in Dietetics and Food Service Management**
+  Indira Gandhi National Open University, 2021  
+  First Class
 
-        .left {
-            width: 30%;
-            background-color: #333;
-            color: #fff;
-            padding: 20px;
-        }
+- **Bachelor in Library & Information Sciences**
+  Indira Gandhi National Open University, 2021  
+  First Class
 
-        .left h2 {
-            font-size: 24px;
-        }
+- **B.Sc in Life Sciences**
+  Delhi University, 2017  
+  First Class
 
-        .left img {
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-        }
+- **Certificate in Nutrition & Child Care**
+  Indira Gandhi National Open University, 2019  
+  First Class
 
-        .Contact p,
-        .Skills ul,
-        .Language ul,
-        .Hobbies ul {
-            padding-left: 20px;
-        }
+## Professional Experience
+**SEO Specialist**  
+Digital Web Solutions, [Dates of Employment]
 
-        .Contact p b,
-        .Skills ul li b,
-        .Language ul li b,
-        .Hobbies ul li b {
-            color: #f39c12;
-        }
+- Conducted comprehensive keyword research to optimize client websites.
+- Implemented on-page SEO techniques including meta tags, headers, and content optimization.
+- Developed and executed link-building strategies to enhance domain authority.
+- Utilized Google Analytics and SEO tools to monitor and report on site performance and organic traffic growth.
+- Collaborated with content creators to ensure SEO best practices are integrated into content production.
 
-        .right {
-            width: 70%;
-            padding: 20px;
-        }
+## Skills
+- SEO Strategy Development
+- Keyword Research & Analysis
+- On-Page & Off-Page Optimization
+- Google Analytics & SEO Tools
+- Content Optimization
+- Link-Building Strategies
 
-        .name {
-            font-size: 36px;
-            color: #333;
-        }
+## Certifications
+- [List any relevant certifications here]
 
-        .title {
-            font-size: 18px;
-            color: #333;
-            margin-top: -10px;
-        }
+## Contact Information
+- **Email:** [Your email address]
+- **Phone:** [Your phone number]
+- **LinkedIn:** [Your LinkedIn profile URL]
 
-        .Summary h2,
-        .Experience h2,
-        .Education h2,
-        .project h2 {
-            font-size: 24px;
-            color: #333;
-            margin-top: 20px;
-        }
 
-        .Experience h3 {
-            font-size: 20px;
-            color: #333;
-        }
-
-        .Experience ul {
-            list-style-type: square;
-        }
-
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 10px;
-        }
-
-        th,
-        td {
-            padding: 10px;
-            text-align: left;
-            border-bottom: 1px solid #ccc;
-        }
-
-        .project p {
-            font-size: 16px;
-            color: #333;
-        }
-    </style>
-</head>
-
-<body>
-    <div class="full">
-        <div class="left">
-            <div class="image">
-                <img src="https://media.licdn.com/dms/image/D4D03AQGvQdVdTx1cvQ/profile-displayphoto-shrink_200_200/0/1668870963218?e=1698883200&v=beta&t=pXqUb-5178aeAQrAQ5rA8O4N70ANma1FFmbiaT3t4jY"
-                    alt="Mohit Kumar - Profile Picture">
-            </div>
-            <div class="Contact">
-                <h2>Contact</h2>
-                <p><b>Email:</b> mohit.kumar5202@gmail.com</p>
-                <p><b>Phone:</b> +91-8527254299</p>
-            </div>
-            <div class="Skills">
-                <h2>Skills</h2>
-                <ul>
-                    <li><b>Full Website Optimization</b></li>
-                    <li><b>Keyword Research</b></li>
-                    <li><b>Content Strategy</b></li>
-                    <li><b>Link Building</b></li>
-                    <li><b>SEO Analytics</b></li>
-                    <li><b>Local SEO</b></li>
-                    <li><b>Conversion Rate Optimization</b></li>
-                    <li><b>Email Marketing</b></li>
-                    <li><b>Technical SEO</b></li>
-                </ul>
-            </div>
-            <div class="Language">
-                <h2>Languages</h2>
-                <ul>
-                    <li>Fluent in Hindi and English</li>
-                </ul>
-            </div>
-            <div class="Hobbies">
-                <h2>Hobbies</h2>
-                <ul>
-                    <li>Continuous Learning</li>
-                    <li>Blogging</li>
-                </ul>
-            </div>
-        </div>
-        <div class="right">
-            <div class="name">
-                <h1>Mohit Kumar - SEO Analyst</h1>
-            </div>
-            <div class="title">
-                <p>Specializing in optimizing websites for top Google rankings</p>
-            </div>
-            <div class="Summary">
-                <h2>Summary</h2>
-                <p>Experienced SEO Analyst proficient in leveraging Ahrefs, SEMrush, Google Analytics, and other tools to enhance search engine visibility. Proven track record in driving organic traffic growth and improving site rankings.</p>
-            </div>
-            <div class="Experience">
-                <h2>Experience</h2>
-                <h3>Digital Web Solutions Pvt Ltd - SEO Analyst</h3>
-                <p>September 2022 to Present</p>
-                <ul>
-                    <li>Executed successful LinkedIn, Text, and Email campaigns</li>
-                    <li>Implemented effective SEO strategies for Google ranking</li>
-                </ul>
-            </div>
-            <div class="Education">
-                <h2>Education</h2>
-                <table>
-                    <tr>
-                        <th>University/College</th>
-                        <th>Course/Degree</th>
-                        <th>Passing Year</th>
-                        <th>Grade</th>
-                    </tr>
-                    <tr>
-                        <td>Delhi University</td>
-                        <td>B.Sc in Life Sciences</td>
-                        <td>2017</td>
-                        <td>First</td>
-                    </tr>
-                    <tr>
-                        <td>Indira Gandhi National Open University</td>
-                        <td>Certificate in Nutrition & Child Care</td>
-                        <td>2019</td>
-                        <td>First</td>
-                    </tr>
-                    <tr>
-                        <td>Indira Gandhi National Open University</td>
-                        <td>M.Sc in Dietetics and Food Service Management</td>
-                        <td>2021</td>
-                        <td>First</td>
-                    </tr>
-                    <tr>
-                        <td>Indira Gandhi National Open University</td>
-                        <td>Bachelor in Library & Information Sciences</td>
-                        <td>2021</td>
-                        <td>First</td>
-                    </tr>
-                </table>
-            </div>
-            <div class="project">
-                <h2>Project</h2>
-                <p>Dissertation - Assessment of Nutritional Status of Adult Diabetic Women (35-60 Years) in Delhi (100 Patients)</p>
-            </div>
-        </div>
-    </div>
-</body>
-
-</html>
 
