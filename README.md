@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -5,6 +6,8 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="resume.css">
+    <title>Mohit Kumar - SEO Analyst Resume</title>
+    <meta name="description" content="SEO Analyst Mohit Kumar - Resume showcasing skills in full website optimization, keyword research, backlink analysis, and more. Over two year of experience driving search engine visibility and business growth.">
     <style>
         /* Custom styles for the resume */
         body {
@@ -40,11 +43,17 @@
             margin-bottom: 10px;
         }
 
-        .Contact p, .Skills ul, .Language ul, .Hobbies ul {
+        .Contact p,
+        .Skills ul,
+        .Language ul,
+        .Hobbies ul {
             padding-left: 20px;
         }
 
-        .Contact p b, .Skills ul li b, .Language ul li b, .Hobbies ul li b {
+        .Contact p b,
+        .Skills ul li b,
+        .Language ul li b,
+        .Hobbies ul li b {
             color: #f39c12;
         }
 
@@ -106,13 +115,12 @@
     <div class="full">
         <div class="left">
             <div class="image">
-                <img src="https://media.licdn.com/dms/image/D4D03AQGvQdVdTx1cvQ/profile-displayphoto-shrink_200_200/0/1668870963218?e=1698883200&v=beta&t=pXqUb-5178aeAQrAQ5rA8O4N70ANma1FFmbiaT3t4jY"
-                    alt="Mohit Kumar - Profile Picture">
+                <img src="https://media.licdn.com/dms/image/D4D03AQGvQdVdTx1cvQ/profile-displayphoto-shrink_200_200/0/1668870963218?e=1698883200&v=beta&t=pXqUb-5178aeAQrAQ5rA8O4N70ANma1FFmbiaT3t4jY" alt="Mohit Kumar - Profile Picture">
             </div>
             <div class="Contact">
                 <h2>Contact</h2>
-                <p><b>Email id:</b> mohit.kumar5202@gmail.com</p>
-                <p><b>Mobile no :</b>+91-8527254299</p>
+                <p><b>Email:</b> mohit.kumar5202@gmail.com</p>
+                <p><b>Mobile:</b> +91-8527254299</p>
             </div>
             <div class="Skills">
                 <h2>Skills</h2>
@@ -151,7 +159,7 @@
         </div>
         <div class="right">
             <div class="name">
-                <h1> RESUME </h1>
+                <h1>RESUME</h1>
             </div>
             <div class="title">
                 <p>SEO Analyst</p>
@@ -213,3 +221,4 @@
 </body>
 
 </html>
+
